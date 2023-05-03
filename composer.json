@@ -1,0 +1,13 @@
+{
+    "name": "iti/bahaa",
+    "description": "test",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "^10.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10.1"
+    },
+    "license": "2023",
+    "minimum-stability": "beta"
+}
